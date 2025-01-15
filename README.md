@@ -97,10 +97,10 @@
 
 <br clear="both">
 
-<img align="right" height="190" src="https://i.gifer.com/39Cg.gif"  />
+<!-- <img align="right" height="190" src="https://i.gifer.com/39Cg.gif"  /> -->
 
 ###
 
-<img src="https://raw.githubusercontent.com/AymanSaleh23/AymanSaleh23/output/snake.svg" alt="Snake animation" />
+<!-- <img src="./snake.svg" alt="Snake animation" /> -->
 
 ###
